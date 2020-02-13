@@ -1,0 +1,14 @@
+=== Started 2019-09-11T15-33-57-205 ===
+[FATAL][15:33:57] ReferenceError: serverport is not defined
+    at new GameServer (d:\germgame20190908\Last version_127.0.0.1\server\src\GameServer.js:57:21)
+    at Object.<anonymous> (d:\germgame20190908\Last version_127.0.0.1\server\src\index.js:25:18)
+    at Module._compile (internal/modules/cjs/loader.js:775:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:831:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+[DEBUG][15:33:57] process.exit(1)
+=== Shutdown 2019-09-11T15-33-57-237 ===

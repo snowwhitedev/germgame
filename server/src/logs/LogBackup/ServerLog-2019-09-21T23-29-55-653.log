@@ -1,0 +1,492 @@
+=== Started 2019-09-21T23-19-00-973 ===
+[INFO ][23:19:00] 418 bad words loaded
+[WARN ][23:19:00] User account "Local Administrator" disabled
+[WARN ][23:19:00] User account "Local Moderator" disabled
+[WARN ][23:19:01] User account "Local User" disabled
+[INFO ][23:19:01] 0 user records loaded.
+[INFO ][23:19:01] 0 IP ban records loaded.
+[INFO ][23:19:01] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[NONE ][23:19:01] 111111111111start
+[NONE ][23:19:01] 0
+[INFO ][23:19:01] WebSocket: ws
+[INFO ][23:19:01] Started stats server on port 14
+[NONE ][23:19:01] 111111111111http open
+[NONE ][23:19:01] Listening on port 10014
+[INFO ][23:19:01] Current game mode is Free For All
+[NONE ][23:19:01] spawnCells99999999999999
+[NONE ][23:19:01]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][23:19:03] spawnCells99999999999999
+[NONE ][23:19:05] spawnCells99999999999999
+[NONE ][23:19:05] 111111111111onClientSocketOpen
+[NONE ][23:19:05] 333333333333onClientSocketOpen
+[NONE ][23:19:05] 222222222222onClientSocketOpen
+[NONE ][23:19:05] CONNECTED 127.0.0.1:54607, origin: "http://localhost"
+[NONE ][23:19:07] spawnCells99999999999999
+[NONE ][23:19:09] spawnCells99999999999999
+[NONE ][23:19:11] spawnCells99999999999999
+[NONE ][23:19:13] spawnCells99999999999999
+[NONE ][23:19:15] spawnCells99999999999999
+[NONE ][23:19:17] spawnCells99999999999999
+[NONE ][23:19:19] spawnCells99999999999999
+[ERROR][23:19:19] [127.0.0.1:54607] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:19:19] DISCONNECTED 127.0.0.1:54607, code: 1001, reason: "", name: "33333"
+[NONE ][23:19:19] 111111111111onClientSocketOpen
+[NONE ][23:19:19] 333333333333onClientSocketOpen
+[NONE ][23:19:19] 222222222222onClientSocketOpen
+[NONE ][23:19:19] CONNECTED 127.0.0.1:54618, origin: "http://localhost"
+[NONE ][23:19:21] spawnCells99999999999999
+[NONE ][23:19:23] spawnCells99999999999999
+[NONE ][23:19:25] spawnCells99999999999999
+[ERROR][23:19:26] [127.0.0.1:54618] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:19:26] DISCONNECTED 127.0.0.1:54618, code: 1001, reason: "", name: "33333"
+[NONE ][23:19:26] 111111111111onClientSocketOpen
+[NONE ][23:19:26] 333333333333onClientSocketOpen
+[NONE ][23:19:26] 222222222222onClientSocketOpen
+[NONE ][23:19:26] CONNECTED 127.0.0.1:54620, origin: "http://localhost"
+[NONE ][23:19:27] spawnCells99999999999999
+[NONE ][23:19:29] spawnCells99999999999999
+[NONE ][23:19:31] spawnCells99999999999999
+[ERROR][23:19:31] [127.0.0.1:54620] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:19:31] DISCONNECTED 127.0.0.1:54620, code: 1001, reason: "", name: "33333"
+[NONE ][23:19:31] 111111111111onClientSocketOpen
+[NONE ][23:19:31] 333333333333onClientSocketOpen
+[NONE ][23:19:31] 222222222222onClientSocketOpen
+[NONE ][23:19:31] CONNECTED 127.0.0.1:54626, origin: "http://localhost"
+[NONE ][23:19:33] spawnCells99999999999999
+[NONE ][23:19:35] spawnCells99999999999999
+[ERROR][23:19:36] [127.0.0.1:54626] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:19:36] DISCONNECTED 127.0.0.1:54626, code: 1001, reason: "", name: "33333"
+[NONE ][23:19:36] 111111111111onClientSocketOpen
+[NONE ][23:19:36] 333333333333onClientSocketOpen
+[NONE ][23:19:36] 222222222222onClientSocketOpen
+[NONE ][23:19:36] CONNECTED 127.0.0.1:54629, origin: "http://localhost"
+[NONE ][23:19:37] spawnCells99999999999999
+[NONE ][23:19:39] spawnCells99999999999999
+[ERROR][23:19:39] [127.0.0.1:54629] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:19:39] DISCONNECTED 127.0.0.1:54629, code: 1001, reason: "", name: "33333"
+[NONE ][23:19:39] 111111111111onClientSocketOpen
+[NONE ][23:19:39] 333333333333onClientSocketOpen
+[NONE ][23:19:39] 222222222222onClientSocketOpen
+[NONE ][23:19:39] CONNECTED 127.0.0.1:54631, origin: "http://localhost"
+[NONE ][23:19:41] spawnCells99999999999999
+[NONE ][23:19:43] spawnCells99999999999999
+[NONE ][23:19:45] spawnCells99999999999999
+[NONE ][23:19:47] spawnCells99999999999999
+[NONE ][23:19:49] spawnCells99999999999999
+[NONE ][23:19:51] spawnCells99999999999999
+[NONE ][23:19:53] spawnCells99999999999999
+[NONE ][23:19:55] spawnCells99999999999999
+[NONE ][23:19:57] spawnCells99999999999999
+[NONE ][23:19:59] spawnCells99999999999999
+[NONE ][23:20:01] spawnCells99999999999999
+[NONE ][23:20:03] spawnCells99999999999999
+[NONE ][23:20:05] spawnCells99999999999999
+[NONE ][23:20:07] spawnCells99999999999999
+[NONE ][23:20:09] spawnCells99999999999999
+[NONE ][23:20:11] spawnCells99999999999999
+[NONE ][23:20:13] spawnCells99999999999999
+[NONE ][23:20:15] spawnCells99999999999999
+[NONE ][23:20:17] spawnCells99999999999999
+[NONE ][23:20:19] spawnCells99999999999999
+[NONE ][23:20:21] spawnCells99999999999999
+[NONE ][23:20:23] spawnCells99999999999999
+[NONE ][23:20:25] spawnCells99999999999999
+[ERROR][23:20:25] [127.0.0.1:54631] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:20:25] DISCONNECTED 127.0.0.1:54631, code: 1001, reason: "", name: ""
+[NONE ][23:20:25] 111111111111onClientSocketOpen
+[NONE ][23:20:25] 333333333333onClientSocketOpen
+[NONE ][23:20:25] 222222222222onClientSocketOpen
+[NONE ][23:20:25] CONNECTED 127.0.0.1:54641, origin: "http://localhost"
+[NONE ][23:20:27] spawnCells99999999999999
+[NONE ][23:20:29] spawnCells99999999999999
+[ERROR][23:20:30] [127.0.0.1:54641] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:20:30] DISCONNECTED 127.0.0.1:54641, code: 1001, reason: "", name: "33333"
+[NONE ][23:20:30] 111111111111onClientSocketOpen
+[NONE ][23:20:30] 333333333333onClientSocketOpen
+[NONE ][23:20:30] 222222222222onClientSocketOpen
+[NONE ][23:20:30] CONNECTED 127.0.0.1:54643, origin: "http://localhost"
+[NONE ][23:20:31] spawnCells99999999999999
+[NONE ][23:20:33] spawnCells99999999999999
+[ERROR][23:20:34] [127.0.0.1:54643] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:20:34] DISCONNECTED 127.0.0.1:54643, code: 1001, reason: "", name: ""
+[NONE ][23:20:35] spawnCells99999999999999
+[NONE ][23:20:37] spawnCells99999999999999
+[NONE ][23:20:39] spawnCells99999999999999
+[NONE ][23:20:41] spawnCells99999999999999
+[NONE ][23:20:43] spawnCells99999999999999
+[NONE ][23:20:45] spawnCells99999999999999
+[NONE ][23:20:45] 111111111111onClientSocketOpen
+[NONE ][23:20:45] 333333333333onClientSocketOpen
+[NONE ][23:20:45] 222222222222onClientSocketOpen
+[NONE ][23:20:45] CONNECTED 127.0.0.1:54674, origin: "http://localhost"
+[NONE ][23:20:47] spawnCells99999999999999
+[NONE ][23:20:49] spawnCells99999999999999
+[ERROR][23:20:51] [127.0.0.1:54674] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:20:51] DISCONNECTED 127.0.0.1:54674, code: 1001, reason: "", name: "asdsad"
+[NONE ][23:20:51] spawnCells99999999999999
+[NONE ][23:20:51] 111111111111onClientSocketOpen
+[NONE ][23:20:51] 333333333333onClientSocketOpen
+[NONE ][23:20:51] 222222222222onClientSocketOpen
+[NONE ][23:20:51] CONNECTED 127.0.0.1:54678, origin: "http://localhost"
+[NONE ][23:20:53] spawnCells99999999999999
+[NONE ][23:20:55] spawnCells99999999999999
+[NONE ][23:20:57] spawnCells99999999999999
+[NONE ][23:20:59] spawnCells99999999999999
+[NONE ][23:21:01] spawnCells99999999999999
+[NONE ][23:21:03] spawnCells99999999999999
+[NONE ][23:21:05] spawnCells99999999999999
+[NONE ][23:21:07] spawnCells99999999999999
+[NONE ][23:21:09] spawnCells99999999999999
+[NONE ][23:21:11] spawnCells99999999999999
+[NONE ][23:21:13] spawnCells99999999999999
+[NONE ][23:21:15] spawnCells99999999999999
+[NONE ][23:21:17] spawnCells99999999999999
+[NONE ][23:21:19] spawnCells99999999999999
+[NONE ][23:21:21] spawnCells99999999999999
+[NONE ][23:21:23] spawnCells99999999999999
+[NONE ][23:21:25] spawnCells99999999999999
+[NONE ][23:21:27] spawnCells99999999999999
+[NONE ][23:21:29] spawnCells99999999999999
+[ERROR][23:21:30] [127.0.0.1:54678] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:21:30] DISCONNECTED 127.0.0.1:54678, code: 1001, reason: "", name: ""
+[NONE ][23:21:30] 111111111111onClientSocketOpen
+[NONE ][23:21:30] 333333333333onClientSocketOpen
+[NONE ][23:21:30] 222222222222onClientSocketOpen
+[NONE ][23:21:30] CONNECTED 127.0.0.1:54698, origin: "http://localhost"
+[NONE ][23:21:31] spawnCells99999999999999
+[NONE ][23:21:33] spawnCells99999999999999
+[NONE ][23:21:35] spawnCells99999999999999
+[NONE ][23:21:37] spawnCells99999999999999
+[NONE ][23:21:39] spawnCells99999999999999
+[NONE ][23:21:41] spawnCells99999999999999
+[NONE ][23:21:43] spawnCells99999999999999
+[NONE ][23:21:45] spawnCells99999999999999
+[NONE ][23:21:47] spawnCells99999999999999
+[NONE ][23:21:49] spawnCells99999999999999
+[NONE ][23:21:51] spawnCells99999999999999
+[NONE ][23:21:53] spawnCells99999999999999
+[NONE ][23:21:55] spawnCells99999999999999
+[NONE ][23:21:57] spawnCells99999999999999
+[NONE ][23:21:59] spawnCells99999999999999
+[ERROR][23:22:00] [127.0.0.1:54698] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:22:00] DISCONNECTED 127.0.0.1:54698, code: 1006, reason: "", name: "asdsad"
+[NONE ][23:22:00] 111111111111onClientSocketOpen
+[NONE ][23:22:00] 333333333333onClientSocketOpen
+[NONE ][23:22:00] 222222222222onClientSocketOpen
+[NONE ][23:22:00] CONNECTED 127.0.0.1:54731, origin: "http://localhost"
+[NONE ][23:22:01] spawnCells99999999999999
+[NONE ][23:22:03] spawnCells99999999999999
+[ERROR][23:22:04] [127.0.0.1:54731] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:22:04] DISCONNECTED 127.0.0.1:54731, code: 1001, reason: "", name: ""
+[NONE ][23:22:04] 111111111111onClientSocketOpen
+[NONE ][23:22:04] 333333333333onClientSocketOpen
+[NONE ][23:22:04] 222222222222onClientSocketOpen
+[NONE ][23:22:04] CONNECTED 127.0.0.1:54737, origin: "http://localhost"
+[NONE ][23:22:05] spawnCells99999999999999
+[ERROR][23:22:06] [127.0.0.1:54737] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:22:06] DISCONNECTED 127.0.0.1:54737, code: 1001, reason: "", name: ""
+[NONE ][23:22:06] 111111111111onClientSocketOpen
+[NONE ][23:22:06] 333333333333onClientSocketOpen
+[NONE ][23:22:06] 222222222222onClientSocketOpen
+[NONE ][23:22:06] CONNECTED 127.0.0.1:54739, origin: "http://localhost"
+[NONE ][23:22:07] spawnCells99999999999999
+[ERROR][23:22:08] [127.0.0.1:54739] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:22:08] DISCONNECTED 127.0.0.1:54739, code: 1001, reason: "", name: ""
+[NONE ][23:22:08] 111111111111onClientSocketOpen
+[NONE ][23:22:08] 333333333333onClientSocketOpen
+[NONE ][23:22:08] 222222222222onClientSocketOpen
+[NONE ][23:22:08] CONNECTED 127.0.0.1:54743, origin: "http://localhost"
+[NONE ][23:22:09] spawnCells99999999999999
+[NONE ][23:22:11] spawnCells99999999999999
+[ERROR][23:22:12] [127.0.0.1:54743] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:22:12] DISCONNECTED 127.0.0.1:54743, code: 1001, reason: "", name: ""
+[NONE ][23:22:12] 111111111111onClientSocketOpen
+[NONE ][23:22:12] 333333333333onClientSocketOpen
+[NONE ][23:22:12] 222222222222onClientSocketOpen
+[NONE ][23:22:12] CONNECTED 127.0.0.1:54751, origin: "http://localhost"
+[NONE ][23:22:13] spawnCells99999999999999
+[NONE ][23:22:15] spawnCells99999999999999
+[NONE ][23:22:17] spawnCells99999999999999
+[NONE ][23:22:19] spawnCells99999999999999
+[NONE ][23:22:21] spawnCells99999999999999
+[NONE ][23:22:23] spawnCells99999999999999
+[NONE ][23:22:25] spawnCells99999999999999
+[NONE ][23:22:26] DISCONNECTED 127.0.0.1:54751, code: 1001, reason: "", name: ""
+[NONE ][23:22:27] spawnCells99999999999999
+[NONE ][23:22:27] 111111111111onClientSocketOpen
+[NONE ][23:22:27] 333333333333onClientSocketOpen
+[NONE ][23:22:27] 222222222222onClientSocketOpen
+[NONE ][23:22:27] CONNECTED 127.0.0.1:54768, origin: "http://localhost"
+[NONE ][23:22:29] spawnCells99999999999999
+[NONE ][23:22:31] spawnCells99999999999999
+[NONE ][23:22:33] spawnCells99999999999999
+[NONE ][23:22:35] spawnCells99999999999999
+[NONE ][23:22:37] spawnCells99999999999999
+[NONE ][23:22:39] spawnCells99999999999999
+[NONE ][23:22:41] spawnCells99999999999999
+[NONE ][23:22:43] spawnCells99999999999999
+[NONE ][23:22:45] spawnCells99999999999999
+[NONE ][23:22:47] spawnCells99999999999999
+[NONE ][23:22:49] spawnCells99999999999999
+[NONE ][23:22:51] spawnCells99999999999999
+[NONE ][23:22:53] spawnCells99999999999999
+[NONE ][23:22:55] spawnCells99999999999999
+[NONE ][23:22:57] spawnCells99999999999999
+[NONE ][23:22:59] spawnCells99999999999999
+[NONE ][23:23:01] spawnCells99999999999999
+[NONE ][23:23:03] spawnCells99999999999999
+[NONE ][23:23:05] spawnCells99999999999999
+[NONE ][23:23:07] spawnCells99999999999999
+[NONE ][23:23:09] spawnCells99999999999999
+[NONE ][23:23:11] spawnCells99999999999999
+[NONE ][23:23:13] spawnCells99999999999999
+[NONE ][23:23:15] spawnCells99999999999999
+[NONE ][23:23:17] spawnCells99999999999999
+[NONE ][23:23:19] spawnCells99999999999999
+[NONE ][23:23:21] spawnCells99999999999999
+[NONE ][23:23:22] DISCONNECTED 127.0.0.1:54768, code: 1001, reason: "", name: "asdsad"
+[NONE ][23:23:23] spawnCells99999999999999
+[NONE ][23:23:23] 111111111111onClientSocketOpen
+[NONE ][23:23:23] 333333333333onClientSocketOpen
+[NONE ][23:23:23] 222222222222onClientSocketOpen
+[NONE ][23:23:23] CONNECTED 127.0.0.1:54823, origin: "http://localhost"
+[NONE ][23:23:25] spawnCells99999999999999
+[NONE ][23:23:27] spawnCells99999999999999
+[NONE ][23:23:29] spawnCells99999999999999
+[NONE ][23:23:31] spawnCells99999999999999
+[NONE ][23:23:33] spawnCells99999999999999
+[NONE ][23:23:35] spawnCells99999999999999
+[ERROR][23:23:36] [127.0.0.1:54823] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:23:36] DISCONNECTED 127.0.0.1:54823, code: 1001, reason: "", name: ""
+[NONE ][23:23:37] spawnCells99999999999999
+[NONE ][23:23:37] 111111111111onClientSocketOpen
+[NONE ][23:23:37] 333333333333onClientSocketOpen
+[NONE ][23:23:37] 222222222222onClientSocketOpen
+[NONE ][23:23:37] CONNECTED 127.0.0.1:54839, origin: "http://localhost"
+[NONE ][23:23:39] spawnCells99999999999999
+[NONE ][23:23:41] spawnCells99999999999999
+[NONE ][23:23:43] spawnCells99999999999999
+[NONE ][23:23:45] spawnCells99999999999999
+[NONE ][23:23:47] spawnCells99999999999999
+[NONE ][23:23:49] spawnCells99999999999999
+[ERROR][23:23:49] [127.0.0.1:54839] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:23:49] DISCONNECTED 127.0.0.1:54839, code: 1001, reason: "", name: "asdsad"
+[NONE ][23:23:49] 111111111111onClientSocketOpen
+[NONE ][23:23:49] 333333333333onClientSocketOpen
+[NONE ][23:23:49] 222222222222onClientSocketOpen
+[NONE ][23:23:49] CONNECTED 127.0.0.1:54855, origin: "http://localhost"
+[NONE ][23:23:51] spawnCells99999999999999
+[NONE ][23:23:53] spawnCells99999999999999
+[NONE ][23:23:55] spawnCells99999999999999
+[NONE ][23:23:57] spawnCells99999999999999
+[NONE ][23:23:59] spawnCells99999999999999
+[NONE ][23:24:01] spawnCells99999999999999
+[NONE ][23:24:03] spawnCells99999999999999
+[NONE ][23:24:05] spawnCells99999999999999
+[NONE ][23:24:07] spawnCells99999999999999
+[NONE ][23:24:09] spawnCells99999999999999
+[NONE ][23:24:11] spawnCells99999999999999
+[NONE ][23:24:13] spawnCells99999999999999
+[NONE ][23:24:15] spawnCells99999999999999
+[NONE ][23:24:17] spawnCells99999999999999
+[NONE ][23:24:19] spawnCells99999999999999
+[NONE ][23:24:21] spawnCells99999999999999
+[NONE ][23:24:23] spawnCells99999999999999
+[NONE ][23:24:25] spawnCells99999999999999
+[NONE ][23:24:27] spawnCells99999999999999
+[NONE ][23:24:29] spawnCells99999999999999
+[NONE ][23:24:31] spawnCells99999999999999
+[NONE ][23:24:33] spawnCells99999999999999
+[NONE ][23:24:35] spawnCells99999999999999
+[NONE ][23:24:37] spawnCells99999999999999
+[NONE ][23:24:39] spawnCells99999999999999
+[NONE ][23:24:41] spawnCells99999999999999
+[NONE ][23:24:43] spawnCells99999999999999
+[NONE ][23:24:45] spawnCells99999999999999
+[ERROR][23:24:45] [127.0.0.1:54855] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:24:45] DISCONNECTED 127.0.0.1:54855, code: 1001, reason: "", name: ""
+[NONE ][23:24:47] spawnCells99999999999999
+[NONE ][23:24:49] spawnCells99999999999999
+[NONE ][23:24:51] spawnCells99999999999999
+[NONE ][23:24:53] spawnCells99999999999999
+[NONE ][23:24:55] spawnCells99999999999999
+[NONE ][23:24:57] spawnCells99999999999999
+[NONE ][23:24:59] spawnCells99999999999999
+[NONE ][23:25:01] spawnCells99999999999999
+[NONE ][23:25:03] spawnCells99999999999999
+[NONE ][23:25:05] spawnCells99999999999999
+[NONE ][23:25:07] spawnCells99999999999999
+[NONE ][23:25:09] spawnCells99999999999999
+[NONE ][23:25:11] spawnCells99999999999999
+[NONE ][23:25:13] spawnCells99999999999999
+[NONE ][23:25:15] spawnCells99999999999999
+[NONE ][23:25:17] spawnCells99999999999999
+[NONE ][23:25:19] spawnCells99999999999999
+[NONE ][23:25:19] 111111111111onClientSocketOpen
+[NONE ][23:25:19] 333333333333onClientSocketOpen
+[NONE ][23:25:19] 222222222222onClientSocketOpen
+[NONE ][23:25:19] CONNECTED 127.0.0.1:54913, origin: "http://localhost"
+[NONE ][23:25:21] spawnCells99999999999999
+[NONE ][23:25:23] spawnCells99999999999999
+[NONE ][23:25:25] spawnCells99999999999999
+[NONE ][23:25:27] spawnCells99999999999999
+[NONE ][23:25:29] spawnCells99999999999999
+[NONE ][23:25:31] spawnCells99999999999999
+[NONE ][23:25:33] spawnCells99999999999999
+[NONE ][23:25:35] spawnCells99999999999999
+[NONE ][23:25:37] spawnCells99999999999999
+[ERROR][23:25:37] [127.0.0.1:54913] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:25:37] DISCONNECTED 127.0.0.1:54913, code: 1001, reason: "", name: ""
+[NONE ][23:25:38] 111111111111onClientSocketOpen
+[NONE ][23:25:38] 333333333333onClientSocketOpen
+[NONE ][23:25:38] 222222222222onClientSocketOpen
+[NONE ][23:25:38] CONNECTED 127.0.0.1:54934, origin: "http://localhost"
+[NONE ][23:25:39] spawnCells99999999999999
+[NONE ][23:25:41] spawnCells99999999999999
+[NONE ][23:25:43] spawnCells99999999999999
+[NONE ][23:25:45] spawnCells99999999999999
+[NONE ][23:25:47] spawnCells99999999999999
+[NONE ][23:25:49] spawnCells99999999999999
+[NONE ][23:25:51] spawnCells99999999999999
+[NONE ][23:25:53] spawnCells99999999999999
+[NONE ][23:25:55] spawnCells99999999999999
+[NONE ][23:25:57] spawnCells99999999999999
+[NONE ][23:25:59] spawnCells99999999999999
+[NONE ][23:26:01] spawnCells99999999999999
+[NONE ][23:26:03] spawnCells99999999999999
+[NONE ][23:26:05] spawnCells99999999999999
+[NONE ][23:26:07] spawnCells99999999999999
+[NONE ][23:26:09] spawnCells99999999999999
+[NONE ][23:26:11] spawnCells99999999999999
+[NONE ][23:26:13] spawnCells99999999999999
+[NONE ][23:26:15] spawnCells99999999999999
+[NONE ][23:26:17] spawnCells99999999999999
+[NONE ][23:26:19] spawnCells99999999999999
+[NONE ][23:26:21] spawnCells99999999999999
+[NONE ][23:26:23] spawnCells99999999999999
+[NONE ][23:26:55] spawnCells99999999999999
+[NONE ][23:26:57] spawnCells99999999999999
+[NONE ][23:26:59] spawnCells99999999999999
+[ERROR][23:26:59] [127.0.0.1:54934] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:26:59] DISCONNECTED 127.0.0.1:54934, code: 1001, reason: "", name: "asdsad"
+[NONE ][23:27:01] spawnCells99999999999999
+[NONE ][23:27:03] 111111111111onClientSocketOpen
+[NONE ][23:27:03] 333333333333onClientSocketOpen
+[NONE ][23:27:03] 222222222222onClientSocketOpen
+[NONE ][23:27:03] CONNECTED 127.0.0.1:55050, origin: "http://localhost"
+[NONE ][23:27:03] spawnCells99999999999999
+[NONE ][23:27:05] spawnCells99999999999999
+[NONE ][23:27:07] spawnCells99999999999999
+[NONE ][23:27:09] spawnCells99999999999999
+[ERROR][23:27:29] [127.0.0.1:55050] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:27:29] DISCONNECTED 127.0.0.1:55050, code: 1006, reason: "", name: "asdsad"
+[NONE ][23:27:29] 111111111111onClientSocketOpen
+[NONE ][23:27:29] 333333333333onClientSocketOpen
+[NONE ][23:27:29] 222222222222onClientSocketOpen
+[NONE ][23:27:29] CONNECTED 127.0.0.1:64417, origin: "http://localhost"
+[NONE ][23:27:31] spawnCells99999999999999
+[NONE ][23:27:43] spawnCells99999999999999
+[NONE ][23:27:45] spawnCells99999999999999
+[ERROR][23:27:46] [127.0.0.1:64417] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:27:46] DISCONNECTED 127.0.0.1:64417, code: 1001, reason: "", name: ""
+[NONE ][23:27:46] 111111111111onClientSocketOpen
+[NONE ][23:27:46] 333333333333onClientSocketOpen
+[NONE ][23:27:46] 222222222222onClientSocketOpen
+[NONE ][23:27:46] CONNECTED 127.0.0.1:64428, origin: "http://localhost"
+[NONE ][23:27:47] spawnCells99999999999999
+[NONE ][23:27:49] spawnCells99999999999999
+[NONE ][23:27:51] spawnCells99999999999999
+[NONE ][23:27:53] spawnCells99999999999999
+[NONE ][23:27:55] spawnCells99999999999999
+[NONE ][23:27:57] spawnCells99999999999999
+[NONE ][23:27:59] spawnCells99999999999999
+[NONE ][23:28:01] spawnCells99999999999999
+[NONE ][23:28:03] spawnCells99999999999999
+[NONE ][23:28:05] spawnCells99999999999999
+[NONE ][23:28:07] spawnCells99999999999999
+[NONE ][23:28:09] spawnCells99999999999999
+[NONE ][23:28:11] spawnCells99999999999999
+[NONE ][23:28:13] spawnCells99999999999999
+[NONE ][23:28:15] spawnCells99999999999999
+[NONE ][23:28:17] spawnCells99999999999999
+[NONE ][23:28:19] spawnCells99999999999999
+[NONE ][23:28:21] spawnCells99999999999999
+[NONE ][23:28:23] spawnCells99999999999999
+[NONE ][23:28:25] spawnCells99999999999999
+[NONE ][23:28:27] spawnCells99999999999999
+[NONE ][23:28:29] spawnCells99999999999999
+[NONE ][23:28:31] spawnCells99999999999999
+[NONE ][23:28:33] spawnCells99999999999999
+[NONE ][23:28:35] spawnCells99999999999999
+[NONE ][23:28:37] spawnCells99999999999999
+[NONE ][23:28:38] 111111111111onClientSocketOpen
+[NONE ][23:28:38] 333333333333onClientSocketOpen
+[NONE ][23:28:38] 222222222222onClientSocketOpen
+[NONE ][23:28:38] CONNECTED 127.0.0.1:64440, origin: "http://localhost"
+[NONE ][23:28:39] spawnCells99999999999999
+[NONE ][23:28:41] spawnCells99999999999999
+[NONE ][23:28:43] spawnCells99999999999999
+[NONE ][23:28:45] spawnCells99999999999999
+[NONE ][23:28:47] spawnCells99999999999999
+[NONE ][23:28:49] spawnCells99999999999999
+[NONE ][23:28:51] spawnCells99999999999999
+[NONE ][23:28:53] spawnCells99999999999999
+[NONE ][23:28:55] spawnCells99999999999999
+[NONE ][23:28:57] spawnCells99999999999999
+[NONE ][23:28:59] spawnCells99999999999999
+[NONE ][23:29:01] spawnCells99999999999999
+[NONE ][23:29:03] spawnCells99999999999999
+[NONE ][23:29:05] spawnCells99999999999999
+[NONE ][23:29:07] spawnCells99999999999999
+[NONE ][23:29:09] spawnCells99999999999999
+[NONE ][23:29:11] spawnCells99999999999999
+[NONE ][23:29:13] spawnCells99999999999999
+[NONE ][23:29:15] spawnCells99999999999999
+[ERROR][23:29:17] [127.0.0.1:64440] Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+[NONE ][23:29:17] DISCONNECTED 127.0.0.1:64440, code: 1001, reason: "", name: "111111"
+[NONE ][23:29:17] spawnCells99999999999999
+[NONE ][23:29:19] spawnCells99999999999999
+[NONE ][23:29:21] spawnCells99999999999999
+[NONE ][23:29:23] spawnCells99999999999999
+[NONE ][23:29:25] spawnCells99999999999999
+[NONE ][23:29:27] spawnCells99999999999999
+[NONE ][23:29:29] spawnCells99999999999999
+[NONE ][23:29:31] spawnCells99999999999999
+[NONE ][23:29:33] spawnCells99999999999999
+[NONE ][23:29:35] spawnCells99999999999999
+[NONE ][23:29:37] spawnCells99999999999999
+[NONE ][23:29:39] spawnCells99999999999999
+[NONE ][23:29:41] spawnCells99999999999999
+[NONE ][23:29:43] spawnCells99999999999999
+[NONE ][23:29:45] spawnCells99999999999999
+[NONE ][23:29:47] spawnCells99999999999999
+[NONE ][23:29:49] spawnCells99999999999999
+[NONE ][23:29:51] spawnCells99999999999999
